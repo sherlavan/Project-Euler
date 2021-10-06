@@ -1,4 +1,3 @@
-
 def getM(a, b, c, divisor):
 
     l, m, k = b, c, (a + b + c) % divisor
